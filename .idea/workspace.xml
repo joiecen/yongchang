@@ -13,35 +13,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f59c87e-a40d-4779-b6a6-c44c537349d1" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\.org.eclipse.jdt.core.external.folders\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\.org.eclipse.jdt.core.external.folders\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\AndroidIBeaconLibrary\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\AndroidIBeaconLibrary\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Hello\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Hello\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Ibeaconspositiontest\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Ibeaconspositiontest\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\YcLocalization\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\YcLocalization\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\appcompat_v7\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\appcompat_v7\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ar\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ar\.syncinfo.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.root\.markers.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.root\11.tree" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.core.resources\.snap" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\0.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Development\Android\workspace\.metadata\.plugins\org.eclipse.team.cvs.core\.running" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/AndroidIBeaconLibrary/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/AndroidIBeaconLibrary/.markers" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Ibeaconspositiontest/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Ibeaconspositiontest/.markers" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/ar/.markers" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/ar/.markers" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3722661548.index" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3722661548.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YcLocalization/src/com/example/yclocalization/MapView.java" afterPath="$PROJECT_DIR$/YcLocalization/src/com/example/yclocalization/MapView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="workspace.iws" />
@@ -141,6 +112,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="tasksExpandState">
@@ -1947,15 +1921,21 @@
       <created>1405315628926</created>
       <updated>1405315628926</updated>
     </task>
+    <task id="LOCAL-00001" summary="测试远程上传github">
+      <created>1405322367985</created>
+      <updated>1405322367985</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1963,7 +1943,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33704117" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1977,7 +1957,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1997,6 +1976,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="测试远程上传github" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试远程上传github" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
