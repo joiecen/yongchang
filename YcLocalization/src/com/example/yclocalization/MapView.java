@@ -7,6 +7,8 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.widget.ImageView;
 
+//hello
+
 public class MapView extends ImageView {
 
     private MainApplication myApplication;
