@@ -41,6 +41,8 @@ public class MapView extends ImageView {
         if (myApplication.markModeOnOrOff()) {
             mark.setPosition(markPosition.position.x, markPosition.position.y);
             mark.drawThePositionOnMap(canvas, values);
+
+
         }
 
         /***set current position***/
