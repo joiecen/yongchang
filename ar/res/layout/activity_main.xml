@@ -1,0 +1,30 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+    
+    <tongji.sdq.ar.CameraSurfaceView
+        android:id="@+id/cameraSurfaceView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    
+    <tongji.sdq.ar.AugmentedRealityView
+        android:id="@+id/augmentedRealityView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    
+    <tongji.sdq.ar.MapView
+                        android:id="@+id/myMap"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:src="@drawable/jiading_ceie_7"
+                        android:scaleType="matrix"/>
+
+</FrameLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="D:\Development\Android\workspace\build\intermediates\exploded-aar\workspace\AndroidIBeaconLibrary\unspecified\assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="D:\Development\Android\workspace\build\intermediates\exploded-aar\workspace\appcompat_v7\unspecified\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="D:\Development\Android\workspace\YcLocalization\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\Development\Android\workspace\YcLocalization\build-types\debug\assets" />
+    </dataSet>
+
+</merger>

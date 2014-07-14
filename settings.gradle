@@ -1,0 +1,3 @@
+include ':AndroidIBeaconLibrary'
+include ':YcLocalization'
+include ':appcompat_v7'

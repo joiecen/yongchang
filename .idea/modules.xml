@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidIBeaconLibrary/AndroidIBeaconLibrary.iml" filepath="$PROJECT_DIR$/AndroidIBeaconLibrary/AndroidIBeaconLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YcLocalization/YcLocalization.iml" filepath="$PROJECT_DIR$/YcLocalization/YcLocalization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appcompat_v7/appcompat_v7.iml" filepath="$PROJECT_DIR$/appcompat_v7/appcompat_v7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
+    </modules>
+  </component>
+</project>
+
